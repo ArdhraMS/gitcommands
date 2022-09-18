@@ -6,3 +6,4 @@ git add -A
 -adding all changes to staging area
 git commit -m "message"
 -adding staged files to local repo
+git remote 
